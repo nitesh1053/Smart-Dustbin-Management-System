@@ -5,7 +5,7 @@
 |--------------|----|--------|
 |IIT2019099|Nitesh Rawat|nitesh1053|
 |IIT2019129|Sanyam Agarwal|sanyam-96|
-|IIT2019159|Hafiz Ali |harsh12-hub|
+|IIT2019159|Hafiz Ali | |
 |IIT2019160|Tejas Dutta |TEJASDUTTA|
 
 
@@ -14,7 +14,7 @@
 
 **Faculty Name-** Dr. Sonali Agarwal , IIIT Allahabad
 
-**Mentor Name-** Sir Gaurav Kumar
+**Mentor Name-**  Gaurav Kumar
 
 **Smart Dustbin Management System**
 
