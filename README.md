@@ -1,16 +1,11 @@
 # Software Engineering Project
-#### Team Members
+
 
 |Enrollment No.|Name|Github_Id|
 |--------------|----|--------|
 |IIT2019099|Nitesh Rawat|nitesh1053|
-|IIT2019129|Sanyam Agarwal|sanyam-96|
-|IIT2019159|Hafiz Ali |Hafiz-Ali47|
-|IIT2019160|Tejas Dutta |TEJASDUTTA|
 
-
-
-**Group No-** 11 (Section B)
+(Section B)
 
 **Faculty Name-** Dr. Sonali Agarwal , IIIT Allahabad
 
